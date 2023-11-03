@@ -1,0 +1,10 @@
+mrizkisaputra\utils\TextInput.class
+mrizkisaputra\repository\TodoListRepository.class
+mrizkisaputra\app\App.class
+mrizkisaputra\repository\TodoListRepositoryImpl.class
+mrizkisaputra\sql\TodoListSQL.class
+mrizkisaputra\view\TodoListView.class
+mrizkisaputra\entity\TodoList.class
+mrizkisaputra\service\TodoListServiceImpl.class
+mrizkisaputra\connection\DataSource.class
+mrizkisaputra\service\TodoListService.class
