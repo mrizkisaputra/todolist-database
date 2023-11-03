@@ -1,5 +1,6 @@
 # Todolist Database
 This is a terminal-based to-do list application. It allows users to add, delete, and modify tasks. The added tasks are stored in the database.
+
 ![program running](output_image.png)
 
 
